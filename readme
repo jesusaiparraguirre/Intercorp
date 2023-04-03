@@ -1,0 +1,19 @@
+PRERREQUISITOS
+- Android Studio
+- Dispositivo Android con Google Play Services
+- Dispositivo Android con conexión a internet
+- google-service.json
+
+INSTALACION
+- Abrir el proyecto en Android Studio e instalar dependencias
+- Ejecutar en modo debug o release apuntando a un dispositivo Android
+
+PRUEBAS
+- Abrir carpeta test, dentro de fragment se encuentra un archivo de test de un metodo
+
+DESPLIEGUE
+- Crear cuenta en PlayStore, pagar 25 dolares
+- Configurar una app, nombre, foto, descripcion, generar llave certificadora
+- Firmar el app y subir el archivo bundle a la PlayStore para su aprobacion
+
+![](https://drive.google.com/file/d/11NoaKhtTfmiEeUmto2yqdCUTToBqTiUJ/view?usp=share_link){width='100px'}
