@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="login_fragment">Autenticación</string>
+    <string name="register_fragment">Registro</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_verify">Verificar código</string>
+    <string name="action_register">Registrarse</string>
+    <string name="prompt_phone">Celular</string>
+    <string name="prompt_name">Nombre</string>
+    <string name="prompt_lastname">Apellido</string>
+    <string name="prompt_age">Edad</string>
+    <string name="prompt_date">Fecha de nacimiento</string>
+    <string name="prompt_code">Código</string>
+
+    <string name="subtitle_login">Ingrese su celular para continuar</string>
+    <string name="title_login">Inicio de sesión</string>
+    <string name="title_register">Registro</string>
+    <string name="subtitle_register">Ingrese sus datos para registrarse</string>
+
+</resources>

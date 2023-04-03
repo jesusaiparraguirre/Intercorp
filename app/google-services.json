@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402986585711",
+    "firebase_url": "https://intercorp-46c0f-default-rtdb.firebaseio.com",
+    "project_id": "intercorp-46c0f",
+    "storage_bucket": "intercorp-46c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402986585711:android:6b1432956f2daef9bf079a",
+        "android_client_info": {
+          "package_name": "com.intercorp.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402986585711-qge6q5208hajkqqs87t4j1o1nneghmr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgCZmgQOW9vHIaUfISiBpzbUmjKNA-_qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402986585711-qge6q5208hajkqqs87t4j1o1nneghmr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
